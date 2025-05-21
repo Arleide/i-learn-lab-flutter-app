@@ -8,7 +8,7 @@ O iLearn Lab é um sistema educacional fullstack que permite a criação e execu
 
 Este projeto faz parte da série **"Construindo o iLearn Lab - Tech Dev Brazil"**, publicada no canal do YouTube:
 
-🎥 Canal: [TECH DEV BRAZIL](https://www.youtube.com/@techdevbrazilltda)
+🎥 Canal: [TECH DEV BRAZIL](https://www.youtube.com/channel/UCLuyixD5bOc7AAmJ9uoniVw)
 
 🚀 Tecnologias utilizadas
 
