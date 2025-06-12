@@ -1,16 +1,35 @@
-# i_learn_lab_app_flutter
+# 📱 iLearn Lab - App Flutter
 
-Projeto da serie iLearn Lab
+Este repositório contém o aplicativo mobile do projeto iLearn Lab, desenvolvido com Flutter e Dart, com suporte para Android e iOS.
 
-## Getting Started
+📌 Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+O iLearn Lab é um sistema educacional fullstack que permite a criação e execução de quizzes com múltiplas categorias, perguntas e respostas. Este aplicativo é responsável por fornecer uma interface mobile amigável para interação com os dados da API.
 
-A few resources to get you started if this is your first Flutter project:
+Este projeto faz parte da série **"Construindo o iLearn Lab - Tech Dev Brazil"**, publicada no canal do YouTube:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎥 Canal: [TECH DEV BRAZIL](https://www.youtube.com/channel/UCLuyixD5bOc7AAmJ9uoniVw)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Tecnologias utilizadas
+
+- Flutter 3
+- Dart
+- HTTP (para consumo da API REST)
+- Provider (gerenciamento de estado) *(opcional, se estiver usando)*
+- Android Studio
+
+📂 Funcionalidades
+
+- 📂 Categorias: Listagem, criação, edição e exclusão
+- ❓ Perguntas: Gerenciamento das perguntas associadas às categorias
+- ✅ Respostas: Cadastro e visualização de respostas
+- 📱 Navegação com Drawer personalizado
+- 💡 UI moderna e responsiva
+
+🛠️ Executando o projeto
+
+1. Certifique-se de ter o Flutter instalado: [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
+2. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU_USUARIO/i-learn-lab-app
